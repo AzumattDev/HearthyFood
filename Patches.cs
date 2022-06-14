@@ -23,7 +23,7 @@ static class Player__Patch
             }
 
             Player.m_localPlayer.TeleportTo(
-                new Vector3(Random.Range(0, 10000), Random.Range(0.5f, 50), Random.Range(0, 10000)),
+                new Vector3(Random.Range(-10000, 10000), Random.Range(0.5f, 3), Random.Range(-10000, 10000)),
                 Quaternion.identity, true);
             Player.m_localPlayer.m_lastGroundTouch = 0f;
         }
