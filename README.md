@@ -1,4 +1,4 @@
-﻿All Food acts like a glitchy hearthstone. Configurable chance to teleport when eating food.
+All Food acts like a glitchy hearthstone. Configurable chance to teleport when eating food.
 
 ---
 
@@ -53,6 +53,11 @@ For Questions or Comments, find me in the Odin Plus Team Discord:
 
 ***
 > # Update Information (Latest listed first)
+> ### 1.1.0
+> - Update ServerSync
+> - Fix size of error on version mismatch
+> ### v1.0.1
+> - Fix some range values
 > ### v1.0.0
 > - Initial Release
 
