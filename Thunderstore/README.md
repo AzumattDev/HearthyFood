@@ -1,4 +1,4 @@
-﻿All Food acts like a glitchy hearthstone. Configurable chance to teleport when eating food.
+All Food acts like a glitchy hearthstone. Configurable chance to teleport when eating food.
 
 ---
 
@@ -48,11 +48,20 @@ NOTE: This mod uses ServerSync and a File watcher. Changes to the server config 
 
 `STEAM:` https://steamcommunity.com/id/azumatt/
 
-For Questions or Comments, find me in the Odin Plus Team Discord:
+For Questions or Comments, find me in the Odin Plus Team Discord or in mine:
+
 [![https://i.imgur.com/XXP6HCU.png](https://i.imgur.com/XXP6HCU.png)](https://discord.gg/Pb6bVMnFb2)
+<a href="https://discord.gg/pdHgy6Bsng"><img src="https://i.imgur.com/Xlcbmm9.png" href="https://discord.gg/pdHgy6Bsng" width="175" height="175"></a>
 
 ***
 > # Update Information (Latest listed first)
+> > ### 1.1.1
+> - Update ServerSync
+> ### 1.1.0
+> - Update ServerSync
+> - Fix size of error on version mismatch
+> ### v1.0.1
+> - Fix some range values
 > ### v1.0.0
 > - Initial Release
 
