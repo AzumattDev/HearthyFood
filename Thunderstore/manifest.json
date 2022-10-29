@@ -1,6 +1,6 @@
 {
     "name": "HearthyFood",
-    "version_number": "1.1.1",
+    "version_number": "1.1.2",
     "website_url": "https://discord.gg/Pb6bVMnFb2",
     "description": "All food acts like a glitchy hearthstone. Configurable chance to teleport when eating food.",
     "dependencies": [

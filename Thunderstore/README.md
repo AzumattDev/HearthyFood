@@ -55,7 +55,9 @@ For Questions or Comments, find me in the Odin Plus Team Discord or in mine:
 
 ***
 > # Update Information (Latest listed first)
-> > ### 1.1.1
+> ### 1.1.2
+> - Update ServerSync
+> ### 1.1.1
 > - Update ServerSync
 > ### 1.1.0
 > - Update ServerSync
