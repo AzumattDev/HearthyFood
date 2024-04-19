@@ -1,9 +1,9 @@
 {
     "name": "HearthyFood",
-    "version_number": "1.1.3",
+    "version_number": "1.1.4",
     "website_url": "https://discord.gg/Pb6bVMnFb2",
     "description": "All food acts like a glitchy hearthstone. Configurable chance to teleport when eating food.",
     "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.2200"
+        "denikson-BepInExPack_Valheim-5.4.2202"
     ]
 }

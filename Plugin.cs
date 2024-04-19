@@ -13,7 +13,7 @@ namespace HearthyFood
     public class HearthyFoodPlugin : BaseUnityPlugin
     {
         internal const string ModName = "HearthyFood";
-        internal const string ModVersion = "1.1.3";
+        internal const string ModVersion = "1.1.4";
         internal const string Author = "Azumatt";
         private const string ModGUID = Author + "." + ModName;
         private static string ConfigFileName = ModGUID + ".cfg";
